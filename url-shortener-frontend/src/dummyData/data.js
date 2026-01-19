@@ -1,17 +1,17 @@
 export const dummyData = [
     {
       id: 1,
-      clickDate: "2024-07-03",
+      clickDate: "2025-07-03",
       count: 35,
     },
     {
       id: 2,
-      clickDate: "2024-07-04",
+      clickDate: "2025-07-04",
       count: 70,
     },
     {
       id: 3,
-      clickDate: "2024-07-05",
+      clickDate: "2025-07-05",
       count: 25,
     },
     {
